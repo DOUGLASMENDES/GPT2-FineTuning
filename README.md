@@ -1,4 +1,4 @@
-# GPT-2 Small Fine-Tuning
+# GPT-2 (small) Fine-Tuning
 
 ## 📄 Descrição
 Este projeto demonstra o processo de fine-tuning do modelo GPT-2 small utilizando a biblioteca Transformers da Hugging Face e Google Colab (de forma gratuita com GPU T4).
